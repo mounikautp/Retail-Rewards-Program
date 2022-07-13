@@ -1,2 +1,2 @@
 # Retail-Rewards-Program
-This is to calculate the rewards based on the spend
+This is to calculate the rewards based on the spend by user
